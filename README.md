@@ -1,2 +1,2 @@
-# First-Solo-Game
+# FirstSoloGame
 My first game coding and doing the art solo
