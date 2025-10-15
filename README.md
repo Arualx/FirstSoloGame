@@ -1,4 +1,4 @@
-# FirstSoloGame
+# 2DEndlessRunner
 My first game coding and doing the art solo.
 #
 # About
